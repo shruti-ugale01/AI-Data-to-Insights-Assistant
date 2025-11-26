@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+matplotlib
+langchain
+langchain-community
+chromadb
+sentence-transformers
+nbformat
+sentence-transformers
