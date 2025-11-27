@@ -62,11 +62,13 @@ ollama pull llama3.2
 4️⃣ Run the application
 streamlit run app.py
 
+
 How to Use:
 
 Open the app in browser (Streamlit auto-opens).
 
 Upload your CSV file.
+
 
 Explore:
 
@@ -81,9 +83,13 @@ Explore:
  Insight Report → one-click dataset intelligence
 
  Example Questions You Can Ask
-
 "Which role has the highest attrition?"
 "Is salary correlated with experience?"
+
+
+
+ Architecture :
+ <img width="1978" height="1043" alt="diagram-export-11-27-2025-11_45_45-AM" src="https://github.com/user-attachments/assets/3b1fcb8e-7714-4846-af40-911296c78ce9" />
 "Which demographic group appears dominant?"
 "What is the main pattern in this dataset?"
 te about Applied AI, Data Intelligence, and User-Centric Automation.
